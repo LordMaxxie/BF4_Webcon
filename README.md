@@ -18,4 +18,3 @@ BF4 Webcon is a [Ruby on Rails 4.0](http://rubyonrails.org/) app designed to be 
 
 If you would like to use BF4 Webcon for commercial purposes, [please contact me](mailto:rob@robfreiburger.com).
 ![Codeship Status] (https://www.codeship.io/projects/a08c9fe0-330b-0131-4613-0ebb14abdfc5/status)
-Update
