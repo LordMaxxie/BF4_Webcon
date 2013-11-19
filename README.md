@@ -17,4 +17,4 @@ BF4 Webcon is a [Ruby on Rails 4.0](http://rubyonrails.org/) app designed to be 
 <a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/3.0/deed.en_US"><img alt="Creative Commons License" style="border-width:0" src="http://i.creativecommons.org/l/by-nc-sa/3.0/88x31.png" /></a><br /><span xmlns:dct="http://purl.org/dc/terms/" property="dct:title">BF4 Webcon</span> by <a xmlns:cc="http://creativecommons.org/ns#" href="https://github.com/RobFreiburger/BF4_Webcon" property="cc:attributionName" rel="cc:attributionURL">Rob Freiburger</a> is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/3.0/deed.en_US">Creative Commons Attribution-NonCommercial-ShareAlike 3.0 Unported License</a>.
 
 If you would like to use BF4 Webcon for commercial purposes, [please contact me](mailto:rob@robfreiburger.com).
-![Codeship Status] (https://www.codeship.io/projects/a08c9fe0-330b-0131-4613-0ebb14abdfc5/status)
+![Codeship Status] (https://www.codeship.io/projects/370a5a20-3339-0131-a375-369e5a556cd3/status)
